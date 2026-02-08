@@ -1,10 +1,10 @@
-title: Jekyll Serial Programmer
+title: LiteQuark Blog
 markdown: kramdown
 
 # for atom feed
 author:
   name: LiteQuark
-  email: dev_sharad@outlook.com
+  email: 33547903+litequark@users.noreply.github.com
 
 plugins:
   - jemoji
