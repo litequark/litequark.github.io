@@ -198,6 +198,11 @@ main {
   font-family: var(--font-mono);
 }
 
+.content code.highlighter-rouge {
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+}
+
 @media (prefers-color-scheme: light) {
   .content code,
   .content pre {
